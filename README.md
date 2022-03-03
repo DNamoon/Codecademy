@@ -2,6 +2,7 @@
 ## md가 markdown이래 스팀잇 기억나네
 
 ## 코데카데미에서 배우는 html, css등을 여기다가 담을려고 프로젝트 이름을 Codecademy 라고 하였다.
+근데 정작 나동빈 유튜브에서 git 배우는 용으로 쓰고 있는 중
 ```c
 #include <stdio.h>
 
